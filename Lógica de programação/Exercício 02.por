@@ -2,7 +2,7 @@ programa
 {
 	
 	funcao inicio()
-	{ 
+	{ 
      
 	real  altura, peso, imc
 	cadeia nome
@@ -21,7 +21,7 @@ programa
 escreva("\n Seu nome é : " , nome , "seu peso é de  : ", peso, " E sua altura é de : ", altura )
 
 
-
+//O cálculo do imc é feito dividindo(/) o peso por altura multiplicado(*) por altura
 
 
  
@@ -38,7 +38,7 @@ escreva("\n Seu imc é :" ,  imc)
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 390; 
+ * @POSICAO-CURSOR = 497; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
